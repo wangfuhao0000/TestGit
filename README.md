@@ -1,2 +1,2 @@
-# healthyApp
-This is a andriod App which can help students in college regularize their daily life.
+# Test
+This is a repository used for test git command.
